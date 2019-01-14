@@ -1,0 +1,19 @@
+{
+  "name": "window",
+  "version": "1.0.0",
+  "description": "Basic app that opens a window",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kpodov/window.git"
+  },
+  "author": "kpodov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kpodov/window/issues"
+  },
+  "homepage": "https://github.com/Kpodov/window#readme"
+}
